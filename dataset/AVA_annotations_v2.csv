@@ -1,0 +1,554 @@
+dataset/-5KQ66BBWC4.jpg,37,54,138,292,watch (a person)
+dataset/-5KQ66BBWC4.jpg,37,54,138,292,martial art
+dataset/-5KQ66BBWC4.jpg,110,12,178,179,stand
+dataset/-5KQ66BBWC4.jpg,110,12,178,179,carry/hold (an object)
+dataset/-5KQ66BBWC4.jpg,110,12,178,179,watch (a person)
+dataset/-IELREHX_js.jpg,34,21,419,333,walk
+dataset/-IELREHX_js.jpg,34,21,419,333,watch (a person)
+dataset/-IELREHX_js.jpg,38,14,300,327,walk
+dataset/-IELREHX_js.jpg,236,102,339,274,sit
+dataset/-IELREHX_js.jpg,236,102,339,274,carry/hold (an object)
+dataset/053oq2xB3oU.jpg,8,45,288,324,sit
+dataset/053oq2xB3oU.jpg,251,77,380,246,sit
+dataset/053oq2xB3oU.jpg,335,84,455,303,sit
+dataset/053oq2xB3oU.jpg,0,38,208,336,sit
+dataset/053oq2xB3oU.jpg,188,96,269,214,sit
+dataset/1ReZIMmD_8E.jpg,174,111,386,356,sit
+dataset/1ReZIMmD_8E.jpg,105,27,269,359,bend/bow (at the waist)
+dataset/1ReZIMmD_8E.jpg,105,27,269,359,watch (a person)
+dataset/1ReZIMmD_8E.jpg,171,110,375,360,sit
+dataset/1ReZIMmD_8E.jpg,113,33,302,356,stand
+dataset/2bxKkUgcqpk.jpg,223,65,327,246,stand
+dataset/2bxKkUgcqpk.jpg,223,65,327,246,hug (a person)
+dataset/2bxKkUgcqpk.jpg,287,46,351,252,stand
+dataset/2bxKkUgcqpk.jpg,287,46,351,252,carry/hold (an object)
+dataset/2bxKkUgcqpk.jpg,287,46,351,252,hug (a person)
+dataset/2fwni_Kjf2M.jpg,55,99,191,358,stand
+dataset/2fwni_Kjf2M.jpg,55,99,191,358,carry/hold (an object)
+dataset/2fwni_Kjf2M.jpg,2,146,137,357,stand
+dataset/2fwni_Kjf2M.jpg,2,146,137,357,carry/hold (an object)
+dataset/2fwni_Kjf2M.jpg,2,146,137,357,hit (an object)
+dataset/2qQs3Y9OJX0.jpg,0,132,55,360,watch (a person)
+dataset/2qQs3Y9OJX0.jpg,5,88,60,185,stand
+dataset/2qQs3Y9OJX0.jpg,5,88,60,185,listen to (a person)
+dataset/32HR3MnDZ8g.jpg,0,34,303,358,sit
+dataset/32HR3MnDZ8g.jpg,0,34,303,358,"talk to (e.g., self, a person, a group)"
+dataset/32HR3MnDZ8g.jpg,0,24,302,360,sit
+dataset/32HR3MnDZ8g.jpg,0,24,302,360,watch (a person)
+dataset/32HR3MnDZ8g.jpg,0,36,429,356,sit
+dataset/3IOE-Q3UWdA.jpg,215,11,357,299,sit
+dataset/3IOE-Q3UWdA.jpg,215,11,357,299,"ride (e.g., a bike, a car, a horse)"
+dataset/3IOE-Q3UWdA.jpg,215,11,357,299,"talk to (e.g., self, a person, a group)"
+dataset/3IOE-Q3UWdA.jpg,153,38,423,346,sit
+dataset/3IOE-Q3UWdA.jpg,153,38,423,346,"ride (e.g., a bike, a car, a horse)"
+dataset/4gVsDd8PV9U.jpg,125,143,306,307,sit
+dataset/4gVsDd8PV9U.jpg,125,143,306,307,"talk to (e.g., self, a person, a group)"
+dataset/4gVsDd8PV9U.jpg,125,143,306,307,watch (a person)
+dataset/4gVsDd8PV9U.jpg,400,46,471,310,stand
+dataset/4gVsDd8PV9U.jpg,400,46,471,310,listen to (a person)
+dataset/5YPjcdLbs5g.jpg,203,146,317,357,walk
+dataset/5YPjcdLbs5g.jpg,203,146,317,357,carry/hold (an object)
+dataset/5YPjcdLbs5g.jpg,203,146,317,357,"talk to (e.g., self, a person, a group)"
+dataset/5YPjcdLbs5g.jpg,202,154,352,356,walk
+dataset/5YPjcdLbs5g.jpg,202,154,352,356,carry/hold (an object)
+dataset/5milLu-6bWI.jpg,440,129,491,247,walk
+dataset/5milLu-6bWI.jpg,440,129,491,247,carry/hold (an object)
+dataset/5milLu-6bWI.jpg,479,123,537,242,walk
+dataset/5milLu-6bWI.jpg,479,123,537,242,carry/hold (an object)
+dataset/5milLu-6bWI.jpg,436,126,510,275,walk
+dataset/7YpF6DntOYw.jpg,245,132,402,358,walk
+dataset/7YpF6DntOYw.jpg,377,171,426,305,walk
+dataset/7YpF6DntOYw.jpg,430,162,480,293,walk
+dataset/7YpF6DntOYw.jpg,430,162,480,293,carry/hold (an object)
+dataset/7YpF6DntOYw.jpg,8,98,231,355,walk
+dataset/7g37N3eoQ9s.jpg,114,39,494,354,sit
+dataset/7g37N3eoQ9s.jpg,114,39,494,354,"talk to (e.g., self, a person, a group)"
+dataset/7g37N3eoQ9s.jpg,117,27,480,354,sit
+dataset/7g37N3eoQ9s.jpg,117,27,480,354,"talk to (e.g., self, a person, a group)"
+dataset/7g37N3eoQ9s.jpg,115,32,476,349,sit
+dataset/7nHkh4sP5Ks.jpg,156,143,252,350,walk
+dataset/7nHkh4sP5Ks.jpg,156,143,252,350,"talk to (e.g., self, a person, a group)"
+dataset/7nHkh4sP5Ks.jpg,156,143,252,350,watch (a person)
+dataset/7nHkh4sP5Ks.jpg,268,157,354,355,walk
+dataset/7nHkh4sP5Ks.jpg,268,157,354,355,listen to (a person)
+dataset/8aMv-ZGD4ic.jpg,123,126,174,184,"listen (e.g., to music)"
+dataset/8aMv-ZGD4ic.jpg,312,116,425,292,bend/bow (at the waist)
+dataset/8aMv-ZGD4ic.jpg,129,126,173,185,sit
+dataset/8aMv-ZGD4ic.jpg,129,126,173,185,"listen (e.g., to music)"
+dataset/8nO5FFbIAog.jpg,28,43,364,360,stand
+dataset/8nO5FFbIAog.jpg,28,43,364,360,hug (a person)
+dataset/8nO5FFbIAog.jpg,8,7,403,359,stand
+dataset/8nO5FFbIAog.jpg,0,8,421,360,sit
+dataset/8nO5FFbIAog.jpg,0,8,421,360,watch (a person)
+dataset/9HOMUW7QNFc.jpg,131,24,477,344,sit
+dataset/9HOMUW7QNFc.jpg,131,24,477,344,carry/hold (an object)
+dataset/9HOMUW7QNFc.jpg,131,24,477,344,watch (a person)
+dataset/9bK05eBt1GM.jpg,75,156,161,283,stand
+dataset/9bK05eBt1GM.jpg,75,156,161,283,carry/hold (an object)
+dataset/9bK05eBt1GM.jpg,75,156,161,283,watch (a person)
+dataset/9bK05eBt1GM.jpg,153,196,192,268,sit
+dataset/9bK05eBt1GM.jpg,153,196,192,268,listen to (a person)
+dataset/9eAOr_ttXp0.jpg,200,148,312,355,walk
+dataset/9eAOr_ttXp0.jpg,200,148,312,355,carry/hold (an object)
+dataset/9eAOr_ttXp0.jpg,196,170,324,359,carry/hold (an object)
+dataset/9eAOr_ttXp0.jpg,188,34,320,332,stand
+dataset/9mLYmkonWZQ.jpg,12,15,361,278,bend/bow (at the waist)
+dataset/9mLYmkonWZQ.jpg,12,3,401,360,bend/bow (at the waist)
+dataset/9mLYmkonWZQ.jpg,12,3,401,360,touch (an object)
+dataset/9mLYmkonWZQ.jpg,21,26,405,331,bend/bow (at the waist)
+dataset/9mLYmkonWZQ.jpg,21,26,405,331,drink
+dataset/AN07xQokfiE.jpg,18,43,379,353,walk
+dataset/AN07xQokfiE.jpg,18,43,379,353,"talk to (e.g., self, a person, a group)"
+dataset/AN07xQokfiE.jpg,94,44,441,351,walk
+dataset/AN07xQokfiE.jpg,43,38,404,350,walk
+dataset/AN07xQokfiE.jpg,72,41,430,347,walk
+dataset/Ag-pXiLrd48.jpg,43,58,163,317,stand
+dataset/Ag-pXiLrd48.jpg,43,58,163,317,hand clap
+dataset/Ag-pXiLrd48.jpg,43,58,163,317,watch (a person)
+dataset/Ag-pXiLrd48.jpg,276,70,449,325,sit
+dataset/Ag-pXiLrd48.jpg,276,70,449,325,play musical instrument
+dataset/BY3sZmvUp-0.jpg,31,6,348,357,walk
+dataset/BY3sZmvUp-0.jpg,31,6,348,357,carry/hold (an object)
+dataset/BY3sZmvUp-0.jpg,16,12,343,356,walk
+dataset/BY3sZmvUp-0.jpg,16,12,343,356,carry/hold (an object)
+dataset/BY3sZmvUp-0.jpg,20,1,304,360,walk
+dataset/C3qk4yAMANk.jpg,0,62,255,351,sit
+dataset/C3qk4yAMANk.jpg,0,62,255,351,eat
+dataset/C3qk4yAMANk.jpg,0,62,255,351,touch (an object)
+dataset/C3qk4yAMANk.jpg,0,62,255,351,listen to (a person)
+dataset/C3qk4yAMANk.jpg,0,62,255,351,watch (a person)
+dataset/D8Vhxbho1fY.jpg,74,0,434,347,sit
+dataset/D8Vhxbho1fY.jpg,74,0,434,347,"talk to (e.g., self, a person, a group)"
+dataset/D8Vhxbho1fY.jpg,74,0,434,347,watch (a person)
+dataset/D8Vhxbho1fY.jpg,375,44,635,358,sit
+dataset/D8Vhxbho1fY.jpg,375,44,635,358,listen to (a person)
+dataset/Db19rWN5BGo.jpg,155,54,209,222,carry/hold (an object)
+dataset/Db19rWN5BGo.jpg,155,54,209,222,watch (a person)
+dataset/Db19rWN5BGo.jpg,389,95,546,341,sit
+dataset/Db19rWN5BGo.jpg,389,95,546,341,carry/hold (an object)
+dataset/F3dPH6Xqf5M.jpg,275,24,566,341,carry/hold (an object)
+dataset/F3dPH6Xqf5M.jpg,275,24,566,341,dance
+dataset/F3dPH6Xqf5M.jpg,250,1,544,327,carry/hold (an object)
+dataset/F3dPH6Xqf5M.jpg,250,1,544,327,dance
+dataset/F3dPH6Xqf5M.jpg,250,1,544,327,listen to (a person)
+dataset/G5Yr20A5z_Q.jpg,81,121,181,356,listen to (a person)
+dataset/G5Yr20A5z_Q.jpg,81,121,181,356,watch (a person)
+dataset/G5Yr20A5z_Q.jpg,153,117,266,360,sit
+dataset/G5Yr20A5z_Q.jpg,153,117,266,360,listen to (a person)
+dataset/GBXK_SyfisM.jpg,19,76,241,278,stand
+dataset/GBXK_SyfisM.jpg,19,76,241,278,"talk to (e.g., self, a person, a group)"
+dataset/GBXK_SyfisM.jpg,19,76,241,278,watch (a person)
+dataset/GBXK_SyfisM.jpg,127,97,491,285,stand
+dataset/GBXK_SyfisM.jpg,127,97,491,285,"talk to (e.g., self, a person, a group)"
+dataset/Gt61_Yekkgc.jpg,1,112,30,186,carry/hold (an object)
+dataset/Gt61_Yekkgc.jpg,72,63,356,334,stand
+dataset/Gt61_Yekkgc.jpg,72,63,356,334,eat
+dataset/Gt61_Yekkgc.jpg,72,63,356,334,"talk to (e.g., self, a person, a group)"
+dataset/HKjR70GCRPE.jpg,1,18,257,342,stand
+dataset/HKjR70GCRPE.jpg,1,18,257,342,listen to (a person)
+dataset/HKjR70GCRPE.jpg,1,18,257,342,watch (a person)
+dataset/HKjR70GCRPE.jpg,178,67,434,345,stand
+dataset/HKjR70GCRPE.jpg,178,67,434,345,"talk to (e.g., self, a person, a group)"
+dataset/HVAmkvLrthQ.jpg,1,157,46,283,stand
+dataset/HVAmkvLrthQ.jpg,1,157,46,283,hand clap
+dataset/HVAmkvLrthQ.jpg,42,135,112,280,stand
+dataset/HVAmkvLrthQ.jpg,42,135,112,280,carry/hold (an object)
+dataset/HVAmkvLrthQ.jpg,42,135,112,280,hand clap
+dataset/Hi8QeP_VPu0.jpg,471,21,614,360,walk
+dataset/Hi8QeP_VPu0.jpg,23,150,65,261,walk
+dataset/Hi8QeP_VPu0.jpg,23,150,65,261,carry/hold (an object)
+dataset/Hi8QeP_VPu0.jpg,60,144,101,262,walk
+dataset/I8j6Xq2B5ys.jpg,93,211,130,289,sit
+dataset/I8j6Xq2B5ys.jpg,93,211,130,289,watch (a person)
+dataset/I8j6Xq2B5ys.jpg,124,55,402,352,sit
+dataset/I8j6Xq2B5ys.jpg,124,55,402,352,carry/hold (an object)
+dataset/I8j6Xq2B5ys.jpg,124,55,402,352,watch (a person)
+dataset/IKdBLciu_-A.jpg,62,1,489,353,stand
+dataset/IKdBLciu_-A.jpg,62,1,489,353,"talk to (e.g., self, a person, a group)"
+dataset/IKdBLciu_-A.jpg,38,55,171,344,walk
+dataset/IKdBLciu_-A.jpg,38,55,171,344,carry/hold (an object)
+dataset/IKdBLciu_-A.jpg,69,0,486,350,stand
+dataset/Ie35yEssHko.jpg,7,12,290,358,stand
+dataset/Ie35yEssHko.jpg,7,12,290,358,"talk to (e.g., self, a person, a group)"
+dataset/Ie35yEssHko.jpg,7,12,290,358,watch (a person)
+dataset/Ie35yEssHko.jpg,397,55,476,350,stand
+dataset/Ie35yEssHko.jpg,397,55,476,350,listen to (a person)
+dataset/J4bt4y9ShTA.jpg,73,0,576,343,stand
+dataset/J4bt4y9ShTA.jpg,73,0,576,343,"talk to (e.g., self, a person, a group)"
+dataset/J4bt4y9ShTA.jpg,131,98,285,332,walk
+dataset/J4bt4y9ShTA.jpg,131,98,285,332,carry/hold (an object)
+dataset/JNb4nWexD0I.jpg,250,35,384,356,stand
+dataset/JNb4nWexD0I.jpg,250,35,384,356,"talk to (e.g., self, a person, a group)"
+dataset/JNb4nWexD0I.jpg,249,32,383,358,stand
+dataset/JNb4nWexD0I.jpg,249,32,383,358,carry/hold (an object)
+dataset/JNb4nWexD0I.jpg,249,32,383,358,"talk to (e.g., self, a person, a group)"
+dataset/KIy2a-nejxg.jpg,26,27,478,334,lie/sleep
+dataset/KIy2a-nejxg.jpg,26,27,478,334,watch (a person)
+dataset/KIy2a-nejxg.jpg,34,18,326,337,stand
+dataset/KIy2a-nejxg.jpg,34,18,326,337,carry/hold (an object)
+dataset/KIy2a-nejxg.jpg,34,18,326,337,watch (a person)
+dataset/KWoSGtglCms.jpg,121,73,418,310,sit
+dataset/KWoSGtglCms.jpg,121,73,418,310,smoke
+dataset/KWoSGtglCms.jpg,121,73,418,310,"talk to (e.g., self, a person, a group)"
+dataset/KWoSGtglCms.jpg,121,73,418,310,watch (a person)
+dataset/KWoSGtglCms.jpg,128,74,403,307,sit
+dataset/K_SpqDJnlps.jpg,0,26,300,354,stand
+dataset/K_SpqDJnlps.jpg,0,26,300,354,listen to (a person)
+dataset/K_SpqDJnlps.jpg,0,26,300,354,watch (a person)
+dataset/K_SpqDJnlps.jpg,294,3,480,346,stand
+dataset/K_SpqDJnlps.jpg,294,3,480,346,"talk to (e.g., self, a person, a group)"
+dataset/Kb1fduj-jdY.jpg,88,21,320,272,stand
+dataset/Kb1fduj-jdY.jpg,88,21,320,272,"talk to (e.g., self, a person, a group)"
+dataset/Kb1fduj-jdY.jpg,88,21,320,272,watch (a person)
+dataset/Kb1fduj-jdY.jpg,388,16,561,266,stand
+dataset/Kb1fduj-jdY.jpg,388,16,561,266,"talk to (e.g., self, a person, a group)"
+dataset/Ksd1JQFHYWA.jpg,21,9,262,344,stand
+dataset/Ksd1JQFHYWA.jpg,21,9,262,344,"talk to (e.g., self, a person, a group)"
+dataset/Ksd1JQFHYWA.jpg,21,9,262,344,watch (a person)
+dataset/Ksd1JQFHYWA.jpg,237,64,409,340,stand
+dataset/Ksd1JQFHYWA.jpg,237,64,409,340,carry/hold (an object)
+dataset/LrDT25hmApw.jpg,89,66,342,259,sit
+dataset/LrDT25hmApw.jpg,89,66,342,259,touch (an object)
+dataset/LrDT25hmApw.jpg,174,66,338,248,sit
+dataset/LrDT25hmApw.jpg,174,66,338,248,carry/hold (an object)
+dataset/LrDT25hmApw.jpg,163,69,344,258,sit
+dataset/M6cgEs9JgDo.jpg,192,12,613,359,stand
+dataset/M6cgEs9JgDo.jpg,192,12,613,359,"talk to (e.g., self, a person, a group)"
+dataset/M6cgEs9JgDo.jpg,179,36,614,355,stand
+dataset/M6cgEs9JgDo.jpg,179,36,614,355,"talk to (e.g., self, a person, a group)"
+dataset/M6cgEs9JgDo.jpg,269,76,392,261,sit
+dataset/Ma2hgTmveKQ.jpg,77,62,317,344,sit
+dataset/Ma2hgTmveKQ.jpg,77,62,317,344,listen to (a person)
+dataset/Ma2hgTmveKQ.jpg,77,62,317,344,"talk to (e.g., self, a person, a group)"
+dataset/Ma2hgTmveKQ.jpg,77,62,317,344,watch (a person)
+dataset/Ma2hgTmveKQ.jpg,287,55,570,354,sit
+dataset/N1K2bEZLL_A.jpg,358,33,479,355,listen to (a person)
+dataset/N1K2bEZLL_A.jpg,358,33,479,355,watch (a person)
+dataset/N1K2bEZLL_A.jpg,33,32,235,343,stand
+dataset/N1K2bEZLL_A.jpg,33,32,235,343,carry/hold (an object)
+dataset/OfMdakd4bHI.jpg,18,62,138,339,stand
+dataset/OfMdakd4bHI.jpg,18,62,138,339,listen to (a person)
+dataset/OfMdakd4bHI.jpg,18,62,138,339,watch (a person)
+dataset/OfMdakd4bHI.jpg,117,75,287,353,stand
+dataset/OfMdakd4bHI.jpg,117,75,287,353,listen to (a person)
+dataset/PcFEhUKhN6g.jpg,62,37,442,311,sit
+dataset/PcFEhUKhN6g.jpg,62,37,442,311,shoot
+dataset/PcFEhUKhN6g.jpg,15,37,426,315,bend/bow (at the waist)
+dataset/PcFEhUKhN6g.jpg,15,37,426,315,carry/hold (an object)
+dataset/PcFEhUKhN6g.jpg,17,39,426,308,sit
+dataset/PmElx9ZVByw.jpg,105,55,273,316,stand
+dataset/PmElx9ZVByw.jpg,105,55,273,316,listen to (a person)
+dataset/PmElx9ZVByw.jpg,105,55,273,316,watch (a person)
+dataset/PmElx9ZVByw.jpg,279,63,462,323,stand
+dataset/PmElx9ZVByw.jpg,279,63,462,323,listen to (a person)
+dataset/QMwT7DFA5O4.jpg,174,64,333,358,walk
+dataset/QMwT7DFA5O4.jpg,174,64,333,358,"talk to (e.g., self, a person, a group)"
+dataset/QMwT7DFA5O4.jpg,76,84,487,360,stand
+dataset/QMwT7DFA5O4.jpg,76,84,487,360,"talk to (e.g., self, a person, a group)"
+dataset/QMwT7DFA5O4.jpg,176,43,487,351,sit
+dataset/QaIMUi-elFo.jpg,61,75,218,359,carry/hold (an object)
+dataset/QaIMUi-elFo.jpg,61,75,218,359,listen to (a person)
+dataset/QaIMUi-elFo.jpg,61,75,218,359,watch (a person)
+dataset/QaIMUi-elFo.jpg,179,48,324,352,walk
+dataset/QaIMUi-elFo.jpg,179,48,324,352,"talk to (e.g., self, a person, a group)"
+dataset/Rm518TUhbRY.jpg,16,1,423,353,sit
+dataset/Rm518TUhbRY.jpg,16,1,423,353,"talk to (e.g., self, a person, a group)"
+dataset/Rm518TUhbRY.jpg,16,1,423,353,watch (a person)
+dataset/Rm518TUhbRY.jpg,48,54,418,351,sit
+dataset/Rm518TUhbRY.jpg,48,54,418,351,"talk to (e.g., self, a person, a group)"
+dataset/T-Fc9ctuNVI.jpg,59,47,333,351,sit
+dataset/T-Fc9ctuNVI.jpg,253,0,394,348,stand
+dataset/T-Fc9ctuNVI.jpg,54,46,341,353,sit
+dataset/T-Fc9ctuNVI.jpg,54,46,341,353,"talk to (e.g., self, a person, a group)"
+dataset/T-Fc9ctuNVI.jpg,54,46,341,353,watch (a person)
+dataset/TCmNvNLRWrc.jpg,75,50,449,355,walk
+dataset/TCmNvNLRWrc.jpg,63,45,474,350,stand
+dataset/TCmNvNLRWrc.jpg,52,36,469,352,stand
+dataset/TCmNvNLRWrc.jpg,52,36,469,352,watch (a person)
+dataset/TCmNvNLRWrc.jpg,239,64,376,339,sit
+dataset/TcB0IFBwk-k.jpg,101,114,265,268,stand
+dataset/TcB0IFBwk-k.jpg,101,114,265,268,listen to (a person)
+dataset/TcB0IFBwk-k.jpg,101,114,265,268,watch (a person)
+dataset/TcB0IFBwk-k.jpg,219,37,511,356,stand
+dataset/TcB0IFBwk-k.jpg,219,37,511,356,carry/hold (an object)
+dataset/TzaVHtLXOzY.jpg,114,13,479,360,stand
+dataset/TzaVHtLXOzY.jpg,114,13,479,360,"talk to (e.g., self, a person, a group)"
+dataset/TzaVHtLXOzY.jpg,110,13,474,356,stand
+dataset/TzaVHtLXOzY.jpg,110,13,474,356,"talk to (e.g., self, a person, a group)"
+dataset/TzaVHtLXOzY.jpg,91,13,492,360,stand
+dataset/U_WzY2k8IBM.jpg,66,89,102,219,walk
+dataset/U_WzY2k8IBM.jpg,66,89,102,219,listen to (a person)
+dataset/U_WzY2k8IBM.jpg,86,88,125,224,stand
+dataset/U_WzY2k8IBM.jpg,120,73,176,253,stand
+dataset/U_WzY2k8IBM.jpg,120,73,176,253,"close (e.g., a door, a box)"
+dataset/UgZFdrNT6W0.jpg,13,19,354,360,stand
+dataset/UgZFdrNT6W0.jpg,13,19,354,360,carry/hold (an object)
+dataset/UgZFdrNT6W0.jpg,47,12,356,352,stand
+dataset/UgZFdrNT6W0.jpg,47,12,356,352,carry/hold (an object)
+dataset/UgZFdrNT6W0.jpg,56,143,265,358,sit
+dataset/VRlpH1MbWUw.jpg,4,35,382,355,sit
+dataset/VRlpH1MbWUw.jpg,4,35,382,355,answer phone
+dataset/VRlpH1MbWUw.jpg,4,16,357,357,sit
+dataset/VRlpH1MbWUw.jpg,4,16,357,357,answer phone
+dataset/VRlpH1MbWUw.jpg,0,18,350,355,sit
+dataset/VsYPP2I0aUQ.jpg,86,28,243,307,bend/bow (at the waist)
+dataset/VsYPP2I0aUQ.jpg,86,28,243,307,listen to (a person)
+dataset/VsYPP2I0aUQ.jpg,86,28,243,307,watch (a person)
+dataset/VsYPP2I0aUQ.jpg,296,120,473,360,sit
+dataset/VsYPP2I0aUQ.jpg,296,120,473,360,carry/hold (an object)
+dataset/WlgxRNCHQzw.jpg,0,14,447,346,"talk to (e.g., self, a person, a group)"
+dataset/WlgxRNCHQzw.jpg,0,14,447,346,lie/sleep
+dataset/WlgxRNCHQzw.jpg,0,9,428,346,lie/sleep
+dataset/WlgxRNCHQzw.jpg,0,9,428,346,watch (a person)
+dataset/WlgxRNCHQzw.jpg,4,7,444,351,lie/sleep
+dataset/XglAvHaEtHY.jpg,58,71,264,304,sit
+dataset/XglAvHaEtHY.jpg,58,71,264,304,"ride (e.g., a bike, a car, a horse)"
+dataset/XglAvHaEtHY.jpg,58,71,264,304,listen to (a person)
+dataset/XglAvHaEtHY.jpg,58,71,264,304,watch (a person)
+dataset/XglAvHaEtHY.jpg,367,67,633,310,sit
+dataset/_-Z6wFjXtGQ.jpg,30,18,252,359,stand
+dataset/_-Z6wFjXtGQ.jpg,30,18,252,359,listen to (a person)
+dataset/_-Z6wFjXtGQ.jpg,30,18,252,359,watch (a person)
+dataset/_-Z6wFjXtGQ.jpg,188,91,440,358,stand
+dataset/_-Z6wFjXtGQ.jpg,188,91,440,358,carry/hold (an object)
+dataset/_a9SWtcaNj8.jpg,299,74,466,347,sit
+dataset/_a9SWtcaNj8.jpg,299,74,466,347,"ride (e.g., a bike, a car, a horse)"
+dataset/_a9SWtcaNj8.jpg,277,65,409,303,sit
+dataset/_a9SWtcaNj8.jpg,277,65,409,303,"ride (e.g., a bike, a car, a horse)"
+dataset/_a9SWtcaNj8.jpg,267,49,472,349,sit
+dataset/_mAfwH6i90E.jpg,107,102,216,334,stand
+dataset/_mAfwH6i90E.jpg,107,102,216,334,watch (a person)
+dataset/_mAfwH6i90E.jpg,123,102,218,194,stand
+dataset/_mAfwH6i90E.jpg,139,89,303,311,stand
+dataset/ax3q-RkVIt4.jpg,271,240,362,351,sit
+dataset/ax3q-RkVIt4.jpg,271,240,362,351,"watch (e.g., TV)"
+dataset/ax3q-RkVIt4.jpg,259,244,361,359,sit
+dataset/ax3q-RkVIt4.jpg,259,244,361,359,"watch (e.g., TV)"
+dataset/ax3q-RkVIt4.jpg,270,242,360,352,sit
+dataset/b5pRYl_djbs.jpg,2,5,463,360,sit
+dataset/b5pRYl_djbs.jpg,2,5,463,360,"ride (e.g., a bike, a car, a horse)"
+dataset/b5pRYl_djbs.jpg,184,13,625,356,sit
+dataset/b5pRYl_djbs.jpg,184,13,625,356,"ride (e.g., a bike, a car, a horse)"
+dataset/b5pRYl_djbs.jpg,184,13,625,356,listen to (a person)
+dataset/bAVXp1oGjHA.jpg,77,2,476,353,stand
+dataset/bAVXp1oGjHA.jpg,77,2,476,353,answer phone
+dataset/bAVXp1oGjHA.jpg,52,6,466,353,stand
+dataset/bAVXp1oGjHA.jpg,52,6,466,353,answer phone
+dataset/bAVXp1oGjHA.jpg,66,0,453,357,stand
+dataset/bhlFavrh7WU.jpg,330,68,391,230,stand
+dataset/bhlFavrh7WU.jpg,330,68,391,230,carry/hold (an object)
+dataset/bhlFavrh7WU.jpg,330,68,391,230,"talk to (e.g., self, a person, a group)"
+dataset/bhlFavrh7WU.jpg,330,68,391,230,watch (a person)
+dataset/bhlFavrh7WU.jpg,237,75,276,226,stand
+dataset/cKA-qeZuH_w.jpg,36,209,60,266,walk
+dataset/cKA-qeZuH_w.jpg,36,209,60,266,carry/hold (an object)
+dataset/cKA-qeZuH_w.jpg,525,145,635,347,stand
+dataset/cKA-qeZuH_w.jpg,525,145,635,347,carry/hold (an object)
+dataset/cKA-qeZuH_w.jpg,40,215,58,266,walk
+dataset/dgLApPvmfBE.jpg,6,0,323,360,stand
+dataset/dgLApPvmfBE.jpg,6,0,323,360,listen to (a person)
+dataset/dgLApPvmfBE.jpg,173,81,473,354,stand
+dataset/dgLApPvmfBE.jpg,173,81,473,354,"talk to (e.g., self, a person, a group)"
+dataset/dgLApPvmfBE.jpg,252,108,478,359,stand
+dataset/fNcxxBjEOgw.jpg,14,109,336,353,bend/bow (at the waist)
+dataset/fNcxxBjEOgw.jpg,14,109,336,353,smoke
+dataset/fNcxxBjEOgw.jpg,269,103,609,351,stand
+dataset/fNcxxBjEOgw.jpg,269,103,609,351,watch (a person)
+dataset/gjasEUDkbuc.jpg,304,2,497,360,stand
+dataset/gjasEUDkbuc.jpg,278,14,506,360,stand
+dataset/gjasEUDkbuc.jpg,211,34,472,360,stand
+dataset/gjasEUDkbuc.jpg,196,13,492,358,stand
+dataset/gjasEUDkbuc.jpg,196,8,525,357,stand
+dataset/gjdgj04FzR0.jpg,36,58,434,354,walk
+dataset/gjdgj04FzR0.jpg,36,58,434,354,carry/hold (an object)
+dataset/gjdgj04FzR0.jpg,193,213,214,259,walk
+dataset/gjdgj04FzR0.jpg,193,213,214,259,carry/hold (an object)
+dataset/gqmmpoO1JrY.jpg,145,218,167,280,walk
+dataset/gqmmpoO1JrY.jpg,176,221,192,278,walk
+dataset/gqmmpoO1JrY.jpg,232,221,252,279,walk
+dataset/gqmmpoO1JrY.jpg,232,221,252,279,carry/hold (an object)
+dataset/gqmmpoO1JrY.jpg,131,217,150,282,walk
+dataset/j35JnR0Q7Es.jpg,40,63,456,343,sit
+dataset/j35JnR0Q7Es.jpg,40,63,456,343,"ride (e.g., a bike, a car, a horse)"
+dataset/j35JnR0Q7Es.jpg,40,63,456,343,"talk to (e.g., self, a person, a group)"
+dataset/j35JnR0Q7Es.jpg,58,60,487,331,sit
+dataset/jBs_XYHI7gM.jpg,177,34,600,350,stand
+dataset/jBs_XYHI7gM.jpg,177,34,600,350,"talk to (e.g., self, a person, a group)"
+dataset/jBs_XYHI7gM.jpg,60,22,521,357,stand
+dataset/jBs_XYHI7gM.jpg,60,22,521,357,watch (a person)
+dataset/jBs_XYHI7gM.jpg,22,35,495,357,stand
+dataset/jgAwJ0RqmYg.jpg,62,11,541,360,sit
+dataset/jgAwJ0RqmYg.jpg,62,11,541,360,"talk to (e.g., self, a person, a group)"
+dataset/jgAwJ0RqmYg.jpg,56,13,554,358,sit
+dataset/jgAwJ0RqmYg.jpg,56,13,554,358,"talk to (e.g., self, a person, a group)"
+dataset/jgAwJ0RqmYg.jpg,56,13,554,358,watch (a person)
+dataset/kLDpP9QEVBs.jpg,133,41,480,306,sit
+dataset/kLDpP9QEVBs.jpg,133,41,480,306,"talk to (e.g., self, a person, a group)"
+dataset/kLDpP9QEVBs.jpg,133,41,480,306,watch (a person)
+dataset/kLDpP9QEVBs.jpg,43,44,352,302,sit
+dataset/kLDpP9QEVBs.jpg,43,44,352,302,carry/hold (an object)
+dataset/kMy-6RtoOVU.jpg,122,7,618,351,stand
+dataset/kMy-6RtoOVU.jpg,122,7,618,351,"talk to (e.g., self, a person, a group)"
+dataset/kMy-6RtoOVU.jpg,138,1,620,346,stand
+dataset/kMy-6RtoOVU.jpg,138,1,620,346,"talk to (e.g., self, a person, a group)"
+dataset/kMy-6RtoOVU.jpg,177,1,611,360,sit
+dataset/lWXhqIAvarw.jpg,476,82,550,171,stand
+dataset/lWXhqIAvarw.jpg,215,76,372,327,run/jog
+dataset/lWXhqIAvarw.jpg,215,76,372,327,carry/hold (an object)
+dataset/lWXhqIAvarw.jpg,255,83,355,202,run/jog
+dataset/lWXhqIAvarw.jpg,255,83,355,202,carry/hold (an object)
+dataset/mkcDANJjDcM.jpg,52,10,365,350,stand
+dataset/mkcDANJjDcM.jpg,52,10,365,350,carry/hold (an object)
+dataset/mkcDANJjDcM.jpg,52,10,365,350,listen to (a person)
+dataset/mkcDANJjDcM.jpg,52,10,365,350,watch (a person)
+dataset/mkcDANJjDcM.jpg,312,65,639,357,stand
+dataset/oD_wxyTHJ2I.jpg,207,134,326,351,walk
+dataset/oD_wxyTHJ2I.jpg,207,134,326,351,carry/hold (an object)
+dataset/oD_wxyTHJ2I.jpg,207,134,326,351,kick (an object)
+dataset/oD_wxyTHJ2I.jpg,241,112,353,358,walk
+dataset/oD_wxyTHJ2I.jpg,241,112,353,358,carry/hold (an object)
+dataset/pGP_oIdKmRY.jpg,8,147,148,347,sit
+dataset/pGP_oIdKmRY.jpg,8,147,148,347,watch (a person)
+dataset/pGP_oIdKmRY.jpg,18,148,154,346,sit
+dataset/phVLLTMzmKk.jpg,5,127,81,274,sit
+dataset/phVLLTMzmKk.jpg,5,127,81,274,carry/hold (an object)
+dataset/phVLLTMzmKk.jpg,5,127,81,274,listen to (a person)
+dataset/phVLLTMzmKk.jpg,5,127,81,274,"talk to (e.g., self, a person, a group)"
+dataset/phVLLTMzmKk.jpg,74,121,149,208,sit
+dataset/phrYEKv0rmw.jpg,2,154,106,348,stand
+dataset/phrYEKv0rmw.jpg,2,154,106,348,listen to (a person)
+dataset/phrYEKv0rmw.jpg,121,34,285,353,walk
+dataset/phrYEKv0rmw.jpg,121,34,285,353,carry/hold (an object)
+dataset/phrYEKv0rmw.jpg,121,34,285,353,listen to (a person)
+dataset/plkJ45_-pMk.jpg,97,19,257,352,walk
+dataset/plkJ45_-pMk.jpg,120,19,232,290,walk
+dataset/plkJ45_-pMk.jpg,94,13,211,251,walk
+dataset/plkJ45_-pMk.jpg,118,9,258,344,walk
+dataset/plkJ45_-pMk.jpg,151,0,299,349,walk
+dataset/qpoWHELxL-4.jpg,0,21,255,356,sit
+dataset/qpoWHELxL-4.jpg,0,21,255,356,listen to (a person)
+dataset/qpoWHELxL-4.jpg,267,50,521,355,sit
+dataset/qpoWHELxL-4.jpg,267,50,521,355,"talk to (e.g., self, a person, a group)"
+dataset/qpoWHELxL-4.jpg,267,50,521,355,watch (a person)
+dataset/qrkff49p4E4.jpg,0,55,160,357,stand
+dataset/qrkff49p4E4.jpg,0,55,160,357,listen to (a person)
+dataset/qrkff49p4E4.jpg,0,55,160,357,watch (a person)
+dataset/qrkff49p4E4.jpg,152,62,324,356,stand
+dataset/qrkff49p4E4.jpg,152,62,324,356,carry/hold (an object)
+dataset/rCb9-U4TArw.jpg,63,25,170,346,stand
+dataset/rCb9-U4TArw.jpg,63,25,170,346,"talk to (e.g., self, a person, a group)"
+dataset/rCb9-U4TArw.jpg,63,25,170,346,watch (a person)
+dataset/rCb9-U4TArw.jpg,214,31,388,353,stand
+dataset/rCb9-U4TArw.jpg,214,31,388,353,listen to (a person)
+dataset/rFgb2ECMcrY.jpg,3,47,265,349,stand
+dataset/rFgb2ECMcrY.jpg,198,26,598,352,stand
+dataset/rFgb2ECMcrY.jpg,198,26,598,352,carry/hold (an object)
+dataset/rFgb2ECMcrY.jpg,500,120,599,318,stand
+dataset/rFgb2ECMcrY.jpg,500,120,599,318,watch (a person)
+dataset/rUYsoIIE37A.jpg,255,85,337,315,walk
+dataset/rUYsoIIE37A.jpg,247,81,346,307,walk
+dataset/rUYsoIIE37A.jpg,247,81,346,307,"talk to (e.g., self, a person, a group)"
+dataset/rUYsoIIE37A.jpg,307,80,375,230,walk
+dataset/rUYsoIIE37A.jpg,307,80,375,230,"talk to (e.g., self, a person, a group)"
+dataset/rk8Xm0EAOWs.jpg,65,39,185,266,sit
+dataset/rk8Xm0EAOWs.jpg,65,39,185,266,"ride (e.g., a bike, a car, a horse)"
+dataset/rk8Xm0EAOWs.jpg,65,39,185,266,watch (a person)
+dataset/rk8Xm0EAOWs.jpg,199,92,221,210,sit
+dataset/rk8Xm0EAOWs.jpg,199,92,221,210,carry/hold (an object)
+dataset/skiZueh4lfY.jpg,15,0,358,360,stand
+dataset/skiZueh4lfY.jpg,15,0,358,360,listen to (a person)
+dataset/skiZueh4lfY.jpg,15,0,358,360,watch (a person)
+dataset/skiZueh4lfY.jpg,156,0,637,357,stand
+dataset/skiZueh4lfY.jpg,156,0,637,357,"talk to (e.g., self, a person, a group)"
+dataset/tEoJW9ycmSY.jpg,121,0,458,356,stand
+dataset/tEoJW9ycmSY.jpg,0,11,307,360,stand
+dataset/tEoJW9ycmSY.jpg,0,11,307,360,watch (a person)
+dataset/tEoJW9ycmSY.jpg,0,9,367,360,stand
+dataset/tEoJW9ycmSY.jpg,0,9,367,360,watch (a person)
+dataset/tNpZtigMc4g.jpg,54,12,464,355,stand
+dataset/tNpZtigMc4g.jpg,54,12,464,355,"talk to (e.g., self, a person, a group)"
+dataset/tNpZtigMc4g.jpg,48,12,484,354,stand
+dataset/tNpZtigMc4g.jpg,48,12,484,354,"talk to (e.g., self, a person, a group)"
+dataset/tNpZtigMc4g.jpg,42,10,437,356,stand
+dataset/tt0t_a1EDCE.jpg,5,14,365,337,sit
+dataset/tt0t_a1EDCE.jpg,5,14,365,337,"talk to (e.g., self, a person, a group)"
+dataset/tt0t_a1EDCE.jpg,5,18,339,337,sit
+dataset/tt0t_a1EDCE.jpg,5,18,339,337,stand
+dataset/tt0t_a1EDCE.jpg,5,18,339,337,"talk to (e.g., self, a person, a group)"
+dataset/uq_HBsvP548.jpg,1,6,60,135,stand
+dataset/uq_HBsvP548.jpg,1,6,60,135,drink
+dataset/uq_HBsvP548.jpg,1,6,60,135,listen to (a person)
+dataset/uq_HBsvP548.jpg,4,68,136,279,sit
+dataset/uq_HBsvP548.jpg,4,68,136,279,eat
+dataset/uzPI7FcF79U.jpg,54,36,258,347,sit
+dataset/uzPI7FcF79U.jpg,54,36,258,347,"talk to (e.g., self, a person, a group)"
+dataset/uzPI7FcF79U.jpg,326,53,593,346,sit
+dataset/uzPI7FcF79U.jpg,326,53,593,346,carry/hold (an object)
+dataset/uzPI7FcF79U.jpg,326,53,593,346,listen to (a person)
+dataset/vBbjA4tWCPg.jpg,49,24,454,359,sit
+dataset/vBbjA4tWCPg.jpg,40,97,420,357,sit
+dataset/vBbjA4tWCPg.jpg,40,97,420,357,fight/hit (a person)
+dataset/vBbjA4tWCPg.jpg,138,14,463,360,sit
+dataset/vfjywN5CN0Y.jpg,9,22,410,352,listen to (a person)
+dataset/vfjywN5CN0Y.jpg,50,0,460,360,stand
+dataset/vfjywN5CN0Y.jpg,50,0,460,360,"talk to (e.g., self, a person, a group)"
+dataset/vfjywN5CN0Y.jpg,50,0,460,360,watch (a person)
+dataset/wEAeql4z1O0.jpg,73,54,289,319,stand
+dataset/wEAeql4z1O0.jpg,73,54,289,319,"talk to (e.g., self, a person, a group)"
+dataset/wEAeql4z1O0.jpg,73,54,289,319,watch (a person)
+dataset/wEAeql4z1O0.jpg,456,123,586,318,stand
+dataset/wEAeql4z1O0.jpg,456,123,586,318,listen to (a person)
+dataset/wfEOx36N4jA.jpg,197,53,431,334,walk
+dataset/wfEOx36N4jA.jpg,197,53,431,334,watch (a person)
+dataset/wfEOx36N4jA.jpg,225,52,488,337,walk
+dataset/wfEOx36N4jA.jpg,225,52,488,337,watch (a person)
+dataset/wfEOx36N4jA.jpg,70,63,208,331,sit
+dataset/wogRuPNBUi8.jpg,100,50,135,158,walk
+dataset/wogRuPNBUi8.jpg,100,50,135,158,listen to (a person)
+dataset/wogRuPNBUi8.jpg,100,50,135,158,watch (a person)
+dataset/wogRuPNBUi8.jpg,137,53,191,214,walk
+dataset/wogRuPNBUi8.jpg,137,53,191,214,carry/hold (an object)
+dataset/xO4ABy2iOQA.jpg,74,63,268,354,stand
+dataset/xO4ABy2iOQA.jpg,74,63,268,354,carry/hold (an object)
+dataset/xO4ABy2iOQA.jpg,74,63,268,354,listen to (a person)
+dataset/xO4ABy2iOQA.jpg,74,63,268,354,watch (a person)
+dataset/xO4ABy2iOQA.jpg,254,0,470,353,stand
+dataset/y7ncweROe9U.jpg,107,184,335,323,bend/bow (at the waist)
+dataset/y7ncweROe9U.jpg,107,184,335,323,carry/hold (an object)
+dataset/y7ncweROe9U.jpg,107,184,335,323,"open (e.g., a window, a car door)"
+dataset/y7ncweROe9U.jpg,126,69,320,334,bend/bow (at the waist)
+dataset/y7ncweROe9U.jpg,126,69,320,334,carry/hold (an object)
+dataset/yMtGmGa8KZ0.jpg,173,0,417,360,stand
+dataset/yMtGmGa8KZ0.jpg,173,0,417,360,carry/hold (an object)
+dataset/yMtGmGa8KZ0.jpg,127,8,449,357,stand
+dataset/yMtGmGa8KZ0.jpg,127,8,449,357,carry/hold (an object)
+dataset/yMtGmGa8KZ0.jpg,342,64,460,356,walk
+dataset/yo-Kg2YxlZs.jpg,21,48,142,223,sit
+dataset/yo-Kg2YxlZs.jpg,212,109,437,357,sit
+dataset/yo-Kg2YxlZs.jpg,310,39,423,232,sit
+dataset/yo-Kg2YxlZs.jpg,310,39,423,232,listen to (a person)
+dataset/yo-Kg2YxlZs.jpg,310,39,423,232,watch (a person)
+dataset/yqImJuC5UzI.jpg,221,59,387,267,walk
+dataset/yqImJuC5UzI.jpg,251,55,292,137,stand
+dataset/yqImJuC5UzI.jpg,251,55,292,137,watch (a person)
+dataset/yqImJuC5UzI.jpg,351,61,419,249,stand
+dataset/yqImJuC5UzI.jpg,351,61,419,249,listen to (a person)
+dataset/yvgCGJ6vfkY.jpg,15,42,97,360,stand
+dataset/yvgCGJ6vfkY.jpg,15,42,97,360,carry/hold (an object)
+dataset/yvgCGJ6vfkY.jpg,15,42,97,360,listen to (a person)
+dataset/yvgCGJ6vfkY.jpg,15,42,97,360,watch (a person)
+dataset/yvgCGJ6vfkY.jpg,136,81,391,358,stand
+dataset/z3kgrh0L_80.jpg,74,3,565,354,"talk to (e.g., self, a person, a group)"
+dataset/z3kgrh0L_80.jpg,132,0,640,355,sit
+dataset/z3kgrh0L_80.jpg,132,0,640,355,"talk to (e.g., self, a person, a group)"
+dataset/z3kgrh0L_80.jpg,132,0,640,355,watch (a person)
+dataset/zR725veL-DI.jpg,216,50,431,355,stand
+dataset/zR725veL-DI.jpg,216,50,431,355,carry/hold (an object)
+dataset/zR725veL-DI.jpg,216,50,431,355,"talk to (e.g., self, a person, a group)"
+dataset/zR725veL-DI.jpg,166,66,352,359,stand
+dataset/zR725veL-DI.jpg,166,66,352,359,carry/hold (an object)
+dataset/zlVkeKC6Ha8.jpg,144,20,463,350,stand
+dataset/zlVkeKC6Ha8.jpg,144,20,463,350,"talk to (e.g., self, a person, a group)"
+dataset/zlVkeKC6Ha8.jpg,144,20,463,350,watch (a person)
+dataset/zlVkeKC6Ha8.jpg,54,17,400,351,stand
+dataset/zlVkeKC6Ha8.jpg,54,17,400,351,watch (a person)
