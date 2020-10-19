@@ -1,4 +1,7 @@
 # ElectiveInAI-Module1-project
+
+![photo_name](images/retinanet.png)
+
 Project folder for Elective in AI 1, held by prof Pirri at Sapienza Università di Roma
 
 This project has the aim of implement a code that utilize the Keras Retinanet with 2 different datasets. 
